@@ -1,0 +1,186 @@
+[
+  {
+    "chunk_id": "centrifugal_pump_CP500_manual_chunk_0",
+    "text": "CENTRIFUGAL PUMP SERIES CP-500\nINSTALLATION, OPERATION & MAINTENANCE MANUAL\nModel: CP-500 | CP-750 | CP-1000\nManufacturer: PrecisionFlow Industrial Systems\nDocument Number: PF-MNL-001 | Revision: 4.2\n\n================================================================================\nTABLE OF CONTENTS\n================================================================================\n1. Safety Instructions\n2. Technical Specifications\n3. Installation Procedure\n4. Operation Guidelines\n5. Preventive Maintenance Schedule\n6. Troubleshooting Guide\n7. Error Codes and Fault Diagnosis\n8. Spare Parts List\n9. Warranty Information\n\n================================================================================\nSECTION 1: SAFETY INSTRUCTIONS\n================================================================================\n\nWARNING: Read all instructions before installation or operation.\nFailure to follow safety instructions may result in serious injury or death.",
+    "metadata": {
+      "source": "centrifugal_pump_CP500_manual.md",
+      "stem": "centrifugal_pump_CP500_manual"
+    }
+  },
+  {
+    "chunk_id": "centrifugal_pump_CP500_manual_chunk_1",
+    "text": "WARNING: Read all instructions before installation or operation.\nFailure to follow safety instructions may result in serious injury or death.\n\n1.1 General Safety\n- Always isolate the pump from power before performing maintenance\n- Wear appropriate PPE including safety glasses and gloves\n- Ensure system pressure is zero before opening any connections\n- Never operate the pump dry (without liquid)\n- Maximum operating temperature: 120°C (248°F)\n- Maximum operating pressure: 16 bar (232 PSI)\n\n1.2 Electrical Safety\n- Verify power supply matches motor nameplate specifications\n- Ensure proper grounding before energizing\n- Use lockout/tagout (LOTO) procedures before maintenance\n\n================================================================================\nSECTION 2: TECHNICAL SPECIFICATIONS\n================================================================================\n\n2.1 Performance Data",
+    "metadata": {
+      "source": "centrifugal_pump_CP500_manual.md",
+      "stem": "centrifugal_pump_CP500_manual"
+    }
+  },
+  {
+    "chunk_id": "centrifugal_pump_CP500_manual_chunk_2",
+    "text": "2.1 Performance Data\n\n| Model    | Flow Rate (m³/h) | Head (m) | Power (kW) | Speed (RPM) | Weight (kg) |\n|----------|-----------------|----------|------------|-------------|-------------|\n| CP-500   | 0 - 45          | 0 - 85   | 7.5        | 2950        | 68          |\n| CP-750   | 0 - 68          | 0 - 95   | 11.0       | 2950        | 84          |\n| CP-1000  | 0 - 95          | 0 - 110  | 15.0       | 2950        | 102         |\n\n2.2 Material Specifications",
+    "metadata": {
+      "source": "centrifugal_pump_CP500_manual.md",
+      "stem": "centrifugal_pump_CP500_manual"
+    }
+  },
+  {
+    "chunk_id": "centrifugal_pump_CP500_manual_chunk_3",
+    "text": "2.2 Material Specifications\n\n| Component        | Standard Material   | Optional Material     |\n|------------------|--------------------|-----------------------|\n| Pump Casing      | Cast Iron (GG-25)  | Stainless Steel 316L  |\n| Impeller         | Bronze              | Stainless Steel 316   |\n| Shaft            | Stainless Steel 304 | Duplex Steel          |\n| Mechanical Seal  | Silicon Carbide     | Tungsten Carbide      |\n| Bearing (Drive)  | SKF 6309            | FAG 6309              |\n| Bearing (Non-Drv)| SKF 6306            | FAG 6306              |\n\n2.3 Lubrication Specifications\n- Bearing grease: Shell Alvania EP2 or equivalent\n- Grease quantity per bearing: 15-20g\n- Regreasing interval: Every 2000 operating hours\n\n================================================================================\nSECTION 3: INSTALLATION PROCEDURE\n================================================================================",
+    "metadata": {
+      "source": "centrifugal_pump_CP500_manual.md",
+      "stem": "centrifugal_pump_CP500_manual"
+    }
+  },
+  {
+    "chunk_id": "centrifugal_pump_CP500_manual_chunk_4",
+    "text": "================================================================================\nSECTION 3: INSTALLATION PROCEDURE\n================================================================================\n\n3.1 Pre-Installation Checks\nStep 1: Inspect pump for damage incurred during shipping\nStep 2: Verify pump model matches order specifications\nStep 3: Check foundation is level to within 0.1mm/m\nStep 4: Confirm pipe sizes match pump inlet/outlet connections\nStep 5: Verify motor voltage matches available power supply\n\n3.2 Mechanical Installation\nStep 1: Position pump on prepared foundation\nStep 2: Level pump using precision level (tolerance ±0.05mm/m)\nStep 3: Tighten foundation bolts to 45 Nm torque\nStep 4: Connect suction piping — minimum straight length: 5x pipe diameter\nStep 5: Connect discharge piping — install non-return valve within 500mm\nStep 6: Connect pressure gauges at suction and discharge ports\nStep 7: Fill seal chamber with flushing liquid if required",
+    "metadata": {
+      "source": "centrifugal_pump_CP500_manual.md",
+      "stem": "centrifugal_pump_CP500_manual"
+    }
+  },
+  {
+    "chunk_id": "centrifugal_pump_CP500_manual_chunk_5",
+    "text": "3.3 Shaft Alignment\nStep 1: Perform initial rough alignment using straight edge\nStep 2: Install dial indicators on coupling\nStep 3: Rotate coupling and record readings at 0°, 90°, 180°, 270°\nStep 4: Adjust motor feet until parallel misalignment < 0.05mm\nStep 5: Adjust until angular misalignment < 0.05mm per 100mm\nStep 6: Tighten all fasteners and re-verify alignment\nStep 7: Record final alignment values in maintenance log\n\n================================================================================\nSECTION 4: OPERATION GUIDELINES\n================================================================================",
+    "metadata": {
+      "source": "centrifugal_pump_CP500_manual.md",
+      "stem": "centrifugal_pump_CP500_manual"
+    }
+  },
+  {
+    "chunk_id": "centrifugal_pump_CP500_manual_chunk_6",
+    "text": "================================================================================\nSECTION 4: OPERATION GUIDELINES\n================================================================================\n\n4.1 Start-Up Procedure\nStep 1: Prime the pump completely — open vent valve until liquid flows\nStep 2: Fully open suction valve\nStep 3: Set discharge valve to 30% open\nStep 4: Energize motor and verify rotation direction\nStep 5: Gradually open discharge valve to operating point\nStep 6: Check current draw — must not exceed motor nameplate amperage\nStep 7: Verify operating vibration < 2.8 mm/s RMS\nStep 8: Check for leaks at all connections\n\n4.2 Shutdown Procedure\nStep 1: Gradually close discharge valve to minimum flow\nStep 2: De-energize motor\nStep 3: Close suction valve\nStep 4: If freezing conditions expected, drain pump completely",
+    "metadata": {
+      "source": "centrifugal_pump_CP500_manual.md",
+      "stem": "centrifugal_pump_CP500_manual"
+    }
+  },
+  {
+    "chunk_id": "centrifugal_pump_CP500_manual_chunk_7",
+    "text": "4.2 Shutdown Procedure\nStep 1: Gradually close discharge valve to minimum flow\nStep 2: De-energize motor\nStep 3: Close suction valve\nStep 4: If freezing conditions expected, drain pump completely\n\n================================================================================\nSECTION 5: PREVENTIVE MAINTENANCE SCHEDULE\n================================================================================\n\n5.1 Daily Inspections (Every 8 Operating Hours)\n- Check bearing temperature — maximum 70°C above ambient\n- Check vibration level — maximum 2.8 mm/s RMS\n- Inspect mechanical seal for leakage — maximum 10 drops/minute acceptable\n- Check suction and discharge pressures\n- Verify motor current within nameplate limits",
+    "metadata": {
+      "source": "centrifugal_pump_CP500_manual.md",
+      "stem": "centrifugal_pump_CP500_manual"
+    }
+  },
+  {
+    "chunk_id": "centrifugal_pump_CP500_manual_chunk_8",
+    "text": "5.2 Weekly Maintenance (Every 50 Operating Hours)\n- Inspect coupling condition and alignment\n- Check all bolted connections for tightness\n- Inspect foundation for cracking or settlement\n- Lubricate motor bearings if grease nipples present\n- Clean pump exterior and check for corrosion\n\n5.3 Monthly Maintenance (Every 250 Operating Hours)\n- Measure and record bearing vibration spectrum\n- Check shaft seal adjustment (gland packing only)\n- Inspect all gaskets and O-rings for deterioration\n- Verify instrumentation calibration (pressure gauges)\n- Review operating data trends\n\n5.4 Annual Maintenance (Every 2000 Operating Hours)\n- Complete pump disassembly and inspection\n- Replace mechanical seal regardless of condition\n- Replace bearings regardless of condition\n- Measure impeller clearance — replace if > 0.5mm\n- Inspect casing for erosion, corrosion, or cracking\n- Replace all gaskets and O-rings\n- Reassemble and realign pump",
+    "metadata": {
+      "source": "centrifugal_pump_CP500_manual.md",
+      "stem": "centrifugal_pump_CP500_manual"
+    }
+  },
+  {
+    "chunk_id": "centrifugal_pump_CP500_manual_chunk_9",
+    "text": "5.5 Bearing Replacement Criteria\nReplace bearings when ANY of the following occur:\n- Vibration velocity exceeds 4.5 mm/s RMS\n- Bearing temperature exceeds ambient + 70°C\n- Audible noise (rumbling, squealing, or grinding)\n- Bearing housing shows blue discoloration (overheating)\n- Scheduled 2000-hour replacement regardless of condition\n\n================================================================================\nSECTION 6: TROUBLESHOOTING GUIDE\n================================================================================\n\n6.1 Pump Fails to Start",
+    "metadata": {
+      "source": "centrifugal_pump_CP500_manual.md",
+      "stem": "centrifugal_pump_CP500_manual"
+    }
+  },
+  {
+    "chunk_id": "centrifugal_pump_CP500_manual_chunk_10",
+    "text": "6.1 Pump Fails to Start\n\n| Probable Cause              | Corrective Action                                    |\n|-----------------------------|------------------------------------------------------|\n| No power supply             | Check fuses, circuit breaker, wiring connections     |\n| Motor overload trip         | Reset overload relay; check for mechanical binding   |\n| Control panel fault         | Check control panel display for fault codes          |\n| Pump seized/locked          | Rotate shaft manually; disassemble if seized         |\n| Suction valve closed        | Open suction valve fully                             |\n\n6.2 Pump Not Delivering Required Flow",
+    "metadata": {
+      "source": "centrifugal_pump_CP500_manual.md",
+      "stem": "centrifugal_pump_CP500_manual"
+    }
+  },
+  {
+    "chunk_id": "centrifugal_pump_CP500_manual_chunk_11",
+    "text": "6.2 Pump Not Delivering Required Flow\n\n| Probable Cause              | Corrective Action                                    |\n|-----------------------------|------------------------------------------------------|\n| Wrong rotation direction    | Swap any two motor phases; recheck direction         |\n| Impeller clogged            | Disassemble and clean impeller passages              |\n| Air lock in suction line    | Re-prime pump; check suction line for air ingress   |\n| Discharge valve closed      | Open discharge valve to operating position           |\n| Impeller worn or damaged    | Measure clearances; replace impeller if worn         |\n| Speed too low               | Check motor speed; inspect belt/coupling             |\n| Suction lift too high       | Reduce suction lift; install booster pump            |\n\n6.3 Pump Overheating",
+    "metadata": {
+      "source": "centrifugal_pump_CP500_manual.md",
+      "stem": "centrifugal_pump_CP500_manual"
+    }
+  },
+  {
+    "chunk_id": "centrifugal_pump_CP500_manual_chunk_12",
+    "text": "6.3 Pump Overheating\n\n| Probable Cause              | Corrective Action                                    |\n|-----------------------------|------------------------------------------------------|\n| Insufficient flow (min flow)| Ensure flow above minimum: CP-500 = 8 m³/h minimum  |\n| Liquid temperature too high | Check process conditions; verify cooling             |\n| Bearing failure             | Replace bearings; check lubrication                  |\n| Mechanical seal friction    | Replace mechanical seal; check flush flow            |\n| Pump running against closed | Never run against closed discharge valve             |\n| discharge valve             |                                                      |\n\n6.4 Excessive Vibration",
+    "metadata": {
+      "source": "centrifugal_pump_CP500_manual.md",
+      "stem": "centrifugal_pump_CP500_manual"
+    }
+  },
+  {
+    "chunk_id": "centrifugal_pump_CP500_manual_chunk_13",
+    "text": "6.4 Excessive Vibration\n\n| Probable Cause              | Corrective Action                                    |\n|-----------------------------|------------------------------------------------------|\n| Shaft misalignment          | Re-align pump to motor; check coupling               |\n| Impeller imbalance          | Inspect impeller for damage; rebalance or replace    |\n| Cavitation                  | Increase suction pressure; reduce flow rate          |\n| Worn bearings               | Replace bearings; check lubrication schedule         |\n| Resonance with pipework     | Add pipe supports; modify support locations          |\n| Foundation loose            | Tighten foundation bolts to 45 Nm                    |\n\n6.5 Mechanical Seal Leakage",
+    "metadata": {
+      "source": "centrifugal_pump_CP500_manual.md",
+      "stem": "centrifugal_pump_CP500_manual"
+    }
+  },
+  {
+    "chunk_id": "centrifugal_pump_CP500_manual_chunk_14",
+    "text": "6.5 Mechanical Seal Leakage\n\n| Probable Cause              | Corrective Action                                    |\n|-----------------------------|------------------------------------------------------|\n| Normal leakage              | < 10 drops/minute is acceptable — no action needed  |\n| Seal face worn              | Replace complete mechanical seal assembly            |\n| O-ring deteriorated         | Replace seal O-rings with compatible material        |\n| Shaft runout excessive      | Check shaft straightness; replace if > 0.05mm TIR   |\n| Incorrect seal for fluid    | Verify seal material compatibility with process fluid|\n\n================================================================================\nSECTION 7: ERROR CODES AND FAULT DIAGNOSIS\n================================================================================\n\n7.1 VFD (Variable Frequency Drive) Fault Codes",
+    "metadata": {
+      "source": "centrifugal_pump_CP500_manual.md",
+      "stem": "centrifugal_pump_CP500_manual"
+    }
+  },
+  {
+    "chunk_id": "centrifugal_pump_CP500_manual_chunk_15",
+    "text": "| Code  | Description                    | Cause                        | Action                              |\n|-------|--------------------------------|------------------------------|-------------------------------------|\n| E-001 | Overcurrent                    | Motor overloaded             | Reduce speed/load; check motor      |\n| E-002 | Overvoltage                    | Supply voltage too high      | Check supply voltage                |\n| E-003 | Undervoltage                   | Supply voltage too low       | Check supply; check connections     |\n| E-004 | Overtemperature - Drive        | Poor ventilation             | Clean drive vents; check fan        |\n| E-005 | Overtemperature - Motor        | Motor overloaded/hot         | Reduce load; check cooling          |\n| E-006 | Ground Fault                   | Insulation failure           | Megger test motor; check cables     |",
+    "metadata": {
+      "source": "centrifugal_pump_CP500_manual.md",
+      "stem": "centrifugal_pump_CP500_manual"
+    }
+  },
+  {
+    "chunk_id": "centrifugal_pump_CP500_manual_chunk_16",
+    "text": "| E-006 | Ground Fault                   | Insulation failure           | Megger test motor; check cables     |\n| E-007 | Phase Loss                     | Missing supply phase         | Check fuses and supply connections  |\n| E-008 | Communication Fault            | Control signal lost          | Check control wiring; restart       |\n| E-009 | Motor Stall                    | Motor cannot accelerate      | Check for mechanical blockage       |\n| E-010 | Keypad Communication Error     | Keypad disconnected          | Check keypad connection             |",
+    "metadata": {
+      "source": "centrifugal_pump_CP500_manual.md",
+      "stem": "centrifugal_pump_CP500_manual"
+    }
+  },
+  {
+    "chunk_id": "centrifugal_pump_CP500_manual_chunk_17",
+    "text": "7.2 Pump Control System Alarm Codes",
+    "metadata": {
+      "source": "centrifugal_pump_CP500_manual.md",
+      "stem": "centrifugal_pump_CP500_manual"
+    }
+  },
+  {
+    "chunk_id": "centrifugal_pump_CP500_manual_chunk_18",
+    "text": "| Alarm | Description                    | Setpoint          | Action Required                     |\n|-------|--------------------------------|-------------------|-------------------------------------|\n| A-01  | High Bearing Temperature       | > 85°C            | Stop pump; inspect bearing          |\n| A-02  | High Vibration                 | > 4.5 mm/s RMS    | Stop pump; investigate cause        |\n| A-03  | Low Suction Pressure           | < 0.5 bar         | Check suction conditions            |\n| A-04  | High Discharge Pressure        | > 14 bar          | Check downstream valve position     |\n| A-05  | Seal Leak Detected             | Float switch trip | Stop pump; replace mechanical seal  |\n| A-06  | Motor High Current             | > 110% FLA        | Reduce load; check motor condition  |\n| A-07  | Low Flow Rate                  | < minimum flow    | Check valve positions; check line   |",
+    "metadata": {
+      "source": "centrifugal_pump_CP500_manual.md",
+      "stem": "centrifugal_pump_CP500_manual"
+    }
+  },
+  {
+    "chunk_id": "centrifugal_pump_CP500_manual_chunk_19",
+    "text": "| A-07  | Low Flow Rate                  | < minimum flow    | Check valve positions; check line   |\n| A-08  | High Liquid Temperature        | > 95°C            | Check process; inspect cooling      |",
+    "metadata": {
+      "source": "centrifugal_pump_CP500_manual.md",
+      "stem": "centrifugal_pump_CP500_manual"
+    }
+  },
+  {
+    "chunk_id": "centrifugal_pump_CP500_manual_chunk_20",
+    "text": "================================================================================\nSECTION 8: SPARE PARTS LIST\n================================================================================\n\n8.1 Recommended Spare Parts (Per Pump)",
+    "metadata": {
+      "source": "centrifugal_pump_CP500_manual.md",
+      "stem": "centrifugal_pump_CP500_manual"
+    }
+  },
+  {
+    "chunk_id": "centrifugal_pump_CP500_manual_chunk_21",
+    "text": "8.1 Recommended Spare Parts (Per Pump)\n\n| Part Number  | Description                        | Quantity | Replacement Interval |\n|--------------|-----------------------------------|----------|----------------------|\n| SP-001-CP5   | Mechanical Seal Assembly (Complete) | 1        | Annual / 2000 hours  |\n| SP-002-CP5   | Bearing Set (Drive End)            | 1        | Annual / 2000 hours  |\n| SP-003-CP5   | Bearing Set (Non-Drive End)        | 1        | Annual / 2000 hours  |\n| SP-004-CP5   | Impeller O-Ring                    | 2        | Annual               |\n| SP-005-CP5   | Casing Gasket                      | 1        | Annual               |\n| SP-006-CP5   | Coupling Element (Spider)          | 1        | 3 years              |\n| SP-007-CP5   | Shaft Seal Housing O-Ring          | 1        | Annual               |",
+    "metadata": {
+      "source": "centrifugal_pump_CP500_manual.md",
+      "stem": "centrifugal_pump_CP500_manual"
+    }
+  },
+  {
+    "chunk_id": "centrifugal_pump_CP500_manual_chunk_22",
+    "text": "================================================================================\nEND OF DOCUMENT\n================================================================================\nDocument: PF-MNL-001 | Revision: 4.2 | Date: 2024-01 | Pages: 48\nFor technical support: +1-800-555-0100 | support@precisionflow-industrial.com",
+    "metadata": {
+      "source": "centrifugal_pump_CP500_manual.md",
+      "stem": "centrifugal_pump_CP500_manual"
+    }
+  }
+]
