@@ -1,0 +1,122 @@
+[
+  {
+    "chunk_id": "electric_motor_IM400_manual_chunk_0",
+    "text": "THREE-PHASE INDUCTION MOTOR SERIES IM-400\nOPERATION & MAINTENANCE MANUAL\nFrame Sizes: 160M to 280S\nManufacturer: ElectraDrive Motor Systems\nDocument Number: ED-MNL-002 | Revision: 2.8\n\n================================================================================\nTABLE OF CONTENTS\n================================================================================\n1. Introduction and Safety\n2. Motor Nameplate Data\n3. Installation Requirements\n4. Insulation and Winding Care\n5. Bearing Maintenance\n6. Troubleshooting\n7. Fault Codes\n8. Rewinding Criteria\n\n================================================================================\nSECTION 1: INTRODUCTION AND SAFETY\n================================================================================\n\nThis manual covers the installation, operation, and maintenance of ElectraDrive\nIM-400 series three-phase induction motors for industrial applications.",
+    "metadata": {
+      "source": "electric_motor_IM400_manual.md",
+      "stem": "electric_motor_IM400_manual"
+    }
+  },
+  {
+    "chunk_id": "electric_motor_IM400_manual_chunk_1",
+    "text": "This manual covers the installation, operation, and maintenance of ElectraDrive\nIM-400 series three-phase induction motors for industrial applications.\n\nWARNING: Hazardous voltage. Risk of electric shock.\nAlways de-energize and lockout/tagout before performing maintenance.\n\nMotor Protection Ratings:\n- IP55 (standard): Dust-tight, protected against water jets\n- IP65 (optional): Dust-tight, protected against water jets from all directions\n- ATEX Zone 2 (optional): Suitable for potentially explosive atmospheres\n\n================================================================================\nSECTION 2: MOTOR NAMEPLATE DATA\n================================================================================\n\n2.1 Understanding the Nameplate",
+    "metadata": {
+      "source": "electric_motor_IM400_manual.md",
+      "stem": "electric_motor_IM400_manual"
+    }
+  },
+  {
+    "chunk_id": "electric_motor_IM400_manual_chunk_2",
+    "text": "2.1 Understanding the Nameplate\n\n| Parameter      | Description                  | Typical Values           |\n|----------------|------------------------------|--------------------------|\n| kW             | Rated shaft output power     | 7.5 / 11 / 15 / 18.5 kW |\n| V              | Supply voltage               | 380-420V / 660-690V      |\n| A              | Full load current (FLA)      | 16.2A (at 7.5kW, 400V)  |\n| Hz             | Supply frequency             | 50 Hz                    |\n| RPM            | Synchronous / Full load RPM  | 3000 / 2950              |\n| cos φ          | Power factor                 | 0.87                     |\n| η              | Efficiency at full load      | 91.5%                    |\n| Class          | Insulation class             | F (155°C max)            |\n| Temp Rise      | Maximum temperature rise     | 80°C (Class B rise)      |\n| S.F.           | Service factor               | 1.15                     |\n\n2.2 Connection Configurations",
+    "metadata": {
+      "source": "electric_motor_IM400_manual.md",
+      "stem": "electric_motor_IM400_manual"
+    }
+  },
+  {
+    "chunk_id": "electric_motor_IM400_manual_chunk_3",
+    "text": "2.2 Connection Configurations\n\n| Supply Voltage | Terminal Connection | Diagram |\n|----------------|---------------------|---------|\n| 380V           | Delta (Δ)           | L1-W2,U2 / L2-U2,V1 / L3-V2,W1 |\n| 660V           | Star (Y)            | U2-V2-W2 linked / L1-U1 / L2-V1 / L3-W1 |\n\n================================================================================\nSECTION 3: INSTALLATION REQUIREMENTS\n================================================================================\n\n3.1 Mounting and Alignment\n\nAlignment Tolerances (Flexible Coupling):\n- Parallel misalignment: < 0.1 mm\n- Angular misalignment: < 0.1 mm per 100mm coupling diameter\n- Axial float: 1-2mm\n\n3.2 Ventilation Requirements\n- Minimum clearance at fan cover: 100mm\n- Ambient temperature range: -20°C to +40°C\n- Altitude derating: > 1000m above sea level requires 1% power deduction per 100m",
+    "metadata": {
+      "source": "electric_motor_IM400_manual.md",
+      "stem": "electric_motor_IM400_manual"
+    }
+  },
+  {
+    "chunk_id": "electric_motor_IM400_manual_chunk_4",
+    "text": "3.2 Ventilation Requirements\n- Minimum clearance at fan cover: 100mm\n- Ambient temperature range: -20°C to +40°C\n- Altitude derating: > 1000m above sea level requires 1% power deduction per 100m\n\n================================================================================\nSECTION 4: INSULATION AND WINDING CARE\n================================================================================\n\n4.1 Insulation Resistance Testing\n\nMeasure insulation resistance before first start and after any rewinding:\n\n| Condition             | Minimum Acceptable Resistance |\n|-----------------------|-------------------------------|\n| New motor (20°C)      | > 100 MΩ                      |\n| After rewinding       | > 50 MΩ                       |\n| In service (40°C)     | > 10 MΩ                       |\n| Caution zone          | 1 - 10 MΩ (monitor closely)   |\n| Do NOT energize       | < 1 MΩ (dry out winding first)|",
+    "metadata": {
+      "source": "electric_motor_IM400_manual.md",
+      "stem": "electric_motor_IM400_manual"
+    }
+  },
+  {
+    "chunk_id": "electric_motor_IM400_manual_chunk_5",
+    "text": "4.2 Winding Drying Procedure (If Insulation Resistance < 1 MΩ)\nStep 1: Disconnect motor from supply completely\nStep 2: Remove motor from installation if possible\nStep 3: Place in oven at 90°C for 8 hours\nStep 4: Increase oven temperature to 105°C for additional 8 hours\nStep 5: Allow to cool to ambient temperature\nStep 6: Re-measure insulation resistance — must exceed 10 MΩ before re-energizing\n\n================================================================================\nSECTION 5: BEARING MAINTENANCE\n================================================================================\n\n5.1 Bearing Specifications",
+    "metadata": {
+      "source": "electric_motor_IM400_manual.md",
+      "stem": "electric_motor_IM400_manual"
+    }
+  },
+  {
+    "chunk_id": "electric_motor_IM400_manual_chunk_6",
+    "text": "5.1 Bearing Specifications\n\n| Frame Size | Drive End Bearing | Non-Drive End Bearing |\n|------------|-------------------|-----------------------|\n| 160M       | 6309-2Z           | 6207-2Z               |\n| 180L       | 6311-2Z           | 6209-2Z               |\n| 200L       | 6312-2Z           | 6210-2Z               |\n| 225M       | 6314-2Z           | 6212-2Z               |\n| 280S       | 6316-2Z           | 6214-2Z               |\n\n5.2 Bearing Lubrication\n\nGreasing Intervals:\n| Operating Condition    | Temperature  | Greasing Interval  |\n|------------------------|--------------|---------------------|\n| Normal (light load)    | < 70°C       | Every 4000 hours    |\n| Medium (normal load)   | 70 - 85°C    | Every 2000 hours    |\n| Severe (high load)     | 85 - 100°C   | Every 1000 hours    |\n| Very Severe (heavy)    | > 100°C      | Every 500 hours     |\n\nApproved Greases:\n- Shell Alvania R2\n- Mobilux EP2  \n- Kluber Asonic GLY 32 (for high temperature)",
+    "metadata": {
+      "source": "electric_motor_IM400_manual.md",
+      "stem": "electric_motor_IM400_manual"
+    }
+  },
+  {
+    "chunk_id": "electric_motor_IM400_manual_chunk_7",
+    "text": "Approved Greases:\n- Shell Alvania R2\n- Mobilux EP2  \n- Kluber Asonic GLY 32 (for high temperature)\n\nQuantity: 10-15g per bearing (use grease gun, not air pressure)\n\nCAUTION: Over-greasing causes overheating and premature bearing failure.\nRemove relief plug during greasing to allow excess grease to escape.\n\n5.3 Bearing Replacement Triggers\n\nReplace bearings immediately when:\n- Vibration velocity (10-1000Hz) exceeds 6.3 mm/s RMS\n- Bearing running temperature exceeds 100°C\n- Audible noise detected: rumbling, squealing, or grinding\n- Shaft end-play exceeds 0.5mm\n- Raceway pitting visible on inspection\n\n================================================================================\nSECTION 6: TROUBLESHOOTING\n================================================================================\n\n6.1 Motor Will Not Start",
+    "metadata": {
+      "source": "electric_motor_IM400_manual.md",
+      "stem": "electric_motor_IM400_manual"
+    }
+  },
+  {
+    "chunk_id": "electric_motor_IM400_manual_chunk_8",
+    "text": "6.1 Motor Will Not Start\n\n| Symptom                | Probable Cause           | Corrective Action                   |\n|------------------------|--------------------------|-------------------------------------|\n| No hum, no movement    | No power supply          | Check supply voltage at terminals   |\n| Hum but no rotation    | Single phasing           | Check all three fuses and contactors|\n| Hum but no rotation    | Rotor locked             | Check for mechanical blockage       |\n| Overload trips on start| Load too high at start   | Check driven equipment; reduce load |\n| Overload trips on start| Overload setting too low | Adjust overload to 110-115% FLA     |\n\n6.2 Motor Runs But Overheats",
+    "metadata": {
+      "source": "electric_motor_IM400_manual.md",
+      "stem": "electric_motor_IM400_manual"
+    }
+  },
+  {
+    "chunk_id": "electric_motor_IM400_manual_chunk_9",
+    "text": "6.2 Motor Runs But Overheats\n\n| Symptom                | Probable Cause           | Corrective Action                   |\n|------------------------|--------------------------|-------------------------------------|\n| Temperature > 100°C    | Overloaded               | Measure current; reduce mechanical load |\n| Temperature > 100°C    | Ventilation blocked      | Clean fan and air passages          |\n| Temperature > 100°C    | Single phasing in service| Check supply voltage all 3 phases   |\n| Temperature > 100°C    | High ambient temperature | Provide additional cooling/ventilation |\n| Temperature > 100°C    | Voltage unbalance > 2%   | Investigate supply quality          |\n\n6.3 Excessive Vibration and Noise",
+    "metadata": {
+      "source": "electric_motor_IM400_manual.md",
+      "stem": "electric_motor_IM400_manual"
+    }
+  },
+  {
+    "chunk_id": "electric_motor_IM400_manual_chunk_10",
+    "text": "6.3 Excessive Vibration and Noise\n\n| Symptom                | Probable Cause           | Corrective Action                   |\n|------------------------|--------------------------|-------------------------------------|\n| Rumbling noise         | Worn or damaged bearing  | Replace bearings                    |\n| High-pitched squeal    | Bearing dry (no grease)  | Regrease immediately; check bearing |\n| Vibration at 1x RPM    | Rotor unbalance          | Balance rotor; check for deposits   |\n| Vibration at 2x RPM    | Misalignment             | Re-align motor and driven equipment |\n| Vibration at 2x supply | Loose stator laminations | Return to manufacturer for repair   |\n\n================================================================================\nSECTION 7: FAULT CODES (MOTOR PROTECTION RELAY)\n================================================================================\n\n7.1 Protection Relay Fault Codes",
+    "metadata": {
+      "source": "electric_motor_IM400_manual.md",
+      "stem": "electric_motor_IM400_manual"
+    }
+  },
+  {
+    "chunk_id": "electric_motor_IM400_manual_chunk_11",
+    "text": "| Code  | Fault Description           | Setpoint         | Action Required                     |\n|-------|-----------------------------|------------------|-------------------------------------|\n| F-01  | Overload - Phase L1         | > 115% FLA       | Check current; reduce load          |\n| F-02  | Overload - Phase L2         | > 115% FLA       | Check current; reduce load          |\n| F-03  | Overload - Phase L3         | > 115% FLA       | Check current; reduce load          |\n| F-04  | Phase Imbalance             | > 10% imbalance  | Check supply voltages and fuses     |\n| F-05  | Phase Loss                  | Any phase absent | Check fuses, contactors, supply     |\n| F-06  | Thermistor (PTC) Trip       | Winding too hot  | Allow motor to cool; check load     |\n| F-07  | Earth Fault                 | > 30mA earth     | Megger test; check cable insulation |\n| F-08  | Undercurrent                | < 20% FLA        | Check coupling; check driven equip  |",
+    "metadata": {
+      "source": "electric_motor_IM400_manual.md",
+      "stem": "electric_motor_IM400_manual"
+    }
+  },
+  {
+    "chunk_id": "electric_motor_IM400_manual_chunk_12",
+    "text": "| F-07  | Earth Fault                 | > 30mA earth     | Megger test; check cable insulation |\n| F-08  | Undercurrent                | < 20% FLA        | Check coupling; check driven equip  |\n| F-09  | Stall / Locked Rotor        | Start time exceed| Check mechanical load; check supply |\n| F-10  | Short Circuit               | Instantaneous    | Check winding; replace if damaged   |",
+    "metadata": {
+      "source": "electric_motor_IM400_manual.md",
+      "stem": "electric_motor_IM400_manual"
+    }
+  },
+  {
+    "chunk_id": "electric_motor_IM400_manual_chunk_13",
+    "text": "================================================================================\nSECTION 8: REWINDING CRITERIA\n================================================================================\n\n8.1 Rewind vs Replace Decision\n\nConsider rewinding when:\n- Motor > 37kW AND repair cost < 65% of replacement cost\n- Motor is special design (Ex-proof, high-temperature, etc.)\n- Long lead time for replacement\n\nConsider replacing when:\n- Motor < 11kW (replacement is more economical)\n- Winding failed due to bearing-induced damage (second failure likely)\n- Motor is more than 15 years old\n- Replacement offers significant efficiency improvement (IE3 vs IE1)\n\n8.2 Winding Failure Analysis",
+    "metadata": {
+      "source": "electric_motor_IM400_manual.md",
+      "stem": "electric_motor_IM400_manual"
+    }
+  },
+  {
+    "chunk_id": "electric_motor_IM400_manual_chunk_14",
+    "text": "8.2 Winding Failure Analysis\n\n| Failure Pattern            | Probable Cause            | Prevention                  |\n|----------------------------|---------------------------|-----------------------------|\n| All three phases burned    | Voltage imbalance         | Improve power supply quality |\n| Single phase burned        | Single phasing event      | Install phase loss protection|\n| End turns burned           | Voltage spikes (VFD)      | Install output reactor      |\n| Burn at 1/3 winding        | Turn-to-turn short        | Improve insulation class     |\n| Burn at slot exit          | Vibration fretting        | Improve motor mounting      |\n\n================================================================================\nEND OF DOCUMENT\n================================================================================\nDocument: ED-MNL-002 | Revision: 2.8 | Date: 2024-03\nElectraDrive Motor Systems | www.electradrive-motors.com\nTechnical Hotline: +1-800-555-0200",
+    "metadata": {
+      "source": "electric_motor_IM400_manual.md",
+      "stem": "electric_motor_IM400_manual"
+    }
+  }
+]
