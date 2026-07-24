@@ -1,18 +1,18 @@
 from fastapi import FastAPI
+from app.routes.telemetry import router as telemetry_router
 
 app = FastAPI(
-    title="Perspective Maintenance RAG",
+    title="Prescriptive Maintenance RAG API",
+    description="API for industrial maintenance using RAG and IoT telemetry.",
     version="1.0.0"
 )
 
+# Health Check Endpoint
 @app.get("/")
-def home():
+def root():
     return {
-        "message": "Perspective Maintenance RAG API is running!"
+        "message": "Prescriptive Maintenance RAG API is running."
     }
 
-@app.get("/health")
-def health():
-    return {
-        "status": "healthy"
-    }
+# Register Routes
+app.include_router(telemetry_router)
